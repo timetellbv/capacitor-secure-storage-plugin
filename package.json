@@ -1,6 +1,6 @@
 {
   "name": "@ttdev/capacitor-secure-storage-plugin",
-  "version": "0.9.2",
+  "version": "0.10.1",
   "description": "Securely store secrets such as usernames, passwords, tokens, certificates or other sensitive information (strings) on iOS & Android",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -55,6 +55,7 @@
     "eslint": "^7.11.0",
     "prettier": "~2.2.0",
     "prettier-plugin-java": "~1.0.0",
+    "release-it": "^17.2.1",
     "rimraf": "^3.0.2",
     "rollup": "^2.32.0",
     "swiftlint": "^1.0.1",
